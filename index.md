@@ -8,3 +8,24 @@
 
 ## Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Code Blocks
+
+### Git consol / plain text
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+### Javascript
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+### Python
+
+``` python
+print("Hello", "World", sep="---", end="!!!\n")
+```
