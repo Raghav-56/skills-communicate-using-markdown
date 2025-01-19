@@ -7,6 +7,7 @@
 ###### Header 6
 
 ## Image
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Code Blocks
@@ -29,3 +30,9 @@ var myVar = "Hello, world!";
 ``` python
 print("Hello", "World", sep="---", end="!!!\n")
 ```
+
+## Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
